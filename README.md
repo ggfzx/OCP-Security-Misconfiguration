@@ -25,4 +25,5 @@ https://gitee.com/dromara/open-capacity-platform/releases/download/ocp-v2.0.1rea
 ```
 
 ## Debug
-
+The bootstrap.yml configuration shows that all endpoints of actuator are open.
+![pic1](https://github.com/ggfzx/OCP-Security-Misconfiguration/blob/main/debug.png)
